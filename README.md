@@ -3,7 +3,7 @@
 ## Rodando o projeto
 
 1. Importe e inicie este projeto
-2. Importe e inicie o projeto o projeto [Cliente](https://github.com/caioqazz/OneCardPokerClient).
+2. Importe e inicie o projeto [Cliente](https://github.com/caioqazz/OneCardPokerClient).
 
 
 ## Jogo
