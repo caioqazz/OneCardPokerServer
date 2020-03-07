@@ -1,5 +1,11 @@
 # OneCardPoker
 
+## Rodando o projeto
+
+1. Importe e inicie este projeto
+2. Importe e inicie o projeto o projeto [Cliente](https://github.com/caioqazz/OneCardPokerClient).
+
+
 ## Jogo
 
 O jogo escolhido foi o jogo “poker de uma carta” para o desenvolvimento do trabalho. No jogo são distribuídos duas cartas para cada jogador, onde o jogador selecionará
